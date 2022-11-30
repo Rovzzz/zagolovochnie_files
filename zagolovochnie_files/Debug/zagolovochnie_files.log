@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(30,23): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(30,30): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(30,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(52,10): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\Source.c(43,8): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\Source.c(17,8): warning C4101: c1: неиспользованная локальная переменная
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\Source.c(17,12): warning C4101: c2: неиспользованная локальная переменная
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(45): warning C4716: number_string: должна возвращать значение
+C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\zagolovochnie_files\UserHeaderFile.h(54): warning C4716: string_number: должна возвращать значение
+  zagolovochnie_files.vcxproj -> C:\Users\1290743\Desktop\Системное программирование\zagolovochnie_files\zagolovochnie_files\Debug\zagolovochnie_files.exe
